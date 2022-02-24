@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+
+
+  body {
+    background-color: rgb(0, 255, 242);
+  }
+
+  h1, h2, h3, form{
+    text-align: center;
+  }
+
+  button{
+      display: block;
+      margin: 25px auto;
+  }
